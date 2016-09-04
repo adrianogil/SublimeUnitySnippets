@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"action",
+				"actionConditions"
+			],
+			[
+				"gener",
+				"generate.conditions"
+			],
+			[
+				"sele",
+				"selectionValue	(ActionCondition.cs)"
+			],
+			[
+				"Editor",
+				"EditorGUI.indentLevel	(ConditionBasedBehavior.cs)"
+			],
+			[
+				"gen",
+				"generate.referencePosition"
+			],
+			[
+				"refere",
+				"referencePosition"
+			],
+			[
+				"GP",
+				"GenerationPosition.ObjectAsReference"
+			],
+			[
+				"Sa",
+				"SamePosition"
+			],
+			[
+				"gene",
+				"generate"
+			],
+			[
+				"direc",
+				"direction.x"
+			],
+			[
+				"Vect",
+				"Vector3UnityEvent"
+			],
+			[
+				"UnityE",
+				"UnityEvent	(CallEvent.cs)"
+			],
+			[
+				"Condi",
+				"ConditionBasedBehavior	(Move.cs)"
+			],
+			[
+				"using",
+				"usingEditor	usingEditor"
+			],
+			[
+				"usign",
+				"usingEditor	usingEditor"
+			],
+			[
+				"keyCode",
+				"keyCodeSelected"
+			],
+			[
+				"keyCo",
+				"keyCodeSelected"
+			],
+			[
+				"keyco",
+				"keyCodeSelected"
+			],
+			[
+				"KeyPr",
+				"KeyCodePressedCondition	(KeyCodePressedCondition.cs)"
+			],
+			[
+				"Action",
+				"ActionConditionDestroyed"
+			],
+			[
+				"AC",
+				"ActionConditionData"
+			],
+			[
+				"Edi",
+				"EditorGUILayout"
+			],
+			[
+				"Ac",
+				"ActionConditionData	(ConditionBasedBehavior.cs)"
+			],
+			[
+				"Actio",
+				"ActionConditionData"
+			],
+			[
+				"aci",
+				"actionConditions"
+			],
+			[
+				"Tou",
+				"TouchCondition	(ConditionBasedBehavior.cs)"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"Ad",
+				"ActionConditionData"
+			],
+			[
+				"AcCo",
+				"ActionConditionData"
+			],
+			[
+				"Acti",
+				"ActionConditionData"
+			],
+			[
+				"Manua",
+				"ManualCondition"
+			],
+			[
+				"A",
+				"ActionCondition"
+			],
+			[
+				"Condition",
+				"ConditionBasedEditor"
+			],
+			[
+				"coll",
+				"collision.gameObject"
+			],
+			[
+				"select",
+				"selectedLayer"
+			],
+			[
+				"new",
+				"newCondition"
+			],
+			[
+				"Verif",
+				"VerifyTouch"
+			],
+			[
+				"touch",
+				"touchCondition"
+			],
+			[
+				"Touch",
+				"TouchCondition"
+			],
+			[
+				"Touc",
+				"TouchCondition"
+			],
+			[
+				"manua",
+				"ManualCondition"
+			],
+			[
+				"Manu",
+				"ManualCondition"
+			],
+			[
+				"genera",
+				"generate.prefab"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"level",
+				"levelController.selectedTotems"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<snippet>\n	<content><![CDATA[\nHello, ${1:this} is a ${2:snippet}.\n]]></content>\n	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->\n	<!-- <tabTrigger>hello</tabTrigger>\\\n	<!-- Optional: Set a scope to limit where the snippet will trigger -->\n	<!-- <scope>source.python</scope> -->\n</snippet>\n",
+			"file": "fori.sublime-snippet",
+			"file_size": 317,
+			"file_write_time": 131173850790000000,
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Library/ProjectSettings.asset",
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Library/CurrentLayout.dwlt",
+		"/Users/gil/workspace/unity3d/uea/SE/MyGame/ProjectSettings/ClusterInputManager.asset",
+		"/Users/gil/workspace/unity3d/uea/SE/MyGame/ProjectSettings/DynamicsManager.asset",
+		"/Users/gil/workspace/unity3d/uea/SE/MyGame/ProjectSettings/EditorBuildSettings.asset",
+		"/Users/gil/workspace/web/uea/20162/SoftEngTJD20162.github.io/index.html",
+		"/Users/gil/workspace/unity3d/uea/SE/MyGame/Assets/Scene/Game.unity",
+		"/Users/gil/workspace/unity3d/uea/SE/MyGame/Assets/Prefabs/Bullets.prefab",
+		"/Users/gil/workspace/unity3d/uea/SE/MyGame/Assets/Prefabs/Bullets.prefab.meta",
+		"/Users/gil/workspace/unity3d/uea/SE/MyGame/Assets/Scripts/DestroyMe.cs.meta",
+		"/Users/gil/workspace/unity3d/uea/SE/MyGame/Assets/Scripts/DestroyMe.cs",
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Assets/Scripts/ActionCondition/KeyCodePressedCondition.cs",
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Assets/Scripts/ChangeVector.cs",
+		"/Users/gil/Library/Application Support/Sublime Text 3/Packages/User/snippets/customEditor.sublime-snippet",
+		"/Users/gil/Library/Application Support/Sublime Text 3/Packages/User/snippets/usingEditor.sublime-snippet",
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Assets/Scenes/Game.unity",
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Assets/Scripts/Generate.cs.meta",
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Assets/Scripts/DestroyMe.cs",
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Assets/Scripts/ActionCondition/FireCondition.cs",
+		"/Users/gil/workspace/unity3d/uea/SE/PrefabInvaders/Assets/Scripts/Generate.cs",
+		"/Users/gil/workspace/unity3d/jams/ggj/2016/puzzlegame/Assets/Scripts/Controllers/LevelController.cs",
+		"/Users/gil/workspace/unity3d/jams/ggj/2016/puzzlegame/Assets/Scripts/Controllers/SoundController.cs",
+		"/Users/gil/workspace/unity3d/jams/ggj/2016/puzzlegame/Assets/Scripts/Controllers/SoundController.cs.meta",
+		"/Users/gil/workspace/unity3d/jams/ggj/2016/puzzlegame/Assets/Scripts/Controllers/MainMenuController.cs",
+		"/Users/gil/workspace/unity3d/jams/ggj/2016/puzzlegame/Assets/Scenes/SplashAndMenu.unity",
+		"/Users/gil/.gitconfig",
+		"/Users/gil/Dropbox/workspace_bkp/scripts/config-files/backup.sh",
+		"/Users/gil/Dropbox/workspace_bkp/scripts/config-files/pu.sh"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tab",
+			"window",
+			"layout",
+			"tall",
+			"wind",
+			"layo",
+			"lay",
+			"layuo",
+			"window",
+			"windo",
+			"layout",
+			"DestroyMe",
+			"f3ff08dc29cb048ebbdd8b9a8bd98d7f",
+			"ed709022cb964431da2b9fa8d2e05b3e",
+			"new ActionContion",
+			"Generate",
+			"603163701",
+			"AudioSource",
+			"603163701",
+			"5cf629bf8d221b9429c636f5ac6fc512",
+			"40c03e41282635144aafd880e3d82b45",
+			"lineRenderer",
+			"linematerial"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fori.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"default_extension": "sublime-snippet",
+							"function_name_status_row": -1,
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SublimeUnitySnippets.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"social",
+				"Assets/Scripts/Managers/SocialManager.cs"
+			],
+			[
+				"condi",
+				"Assets/Scripts/ConditionBasedBehavior.cs"
+			],
+			[
+				"destr",
+				"Assets/Scripts/DestroyMe.cs.meta"
+			],
+			[
+				"bullet",
+				"Assets/Prefabs/Bullets.prefab.meta"
+			],
+			[
+				"chn",
+				"Assets/Scripts/ChangeVector.cs"
+			],
+			[
+				"call",
+				"Assets/Scripts/CallEvent.cs"
+			],
+			[
+				"fire",
+				"Assets/Scripts/ActionCondition/FireCondition.cs"
+			],
+			[
+				"keycon",
+				"Assets/Scripts/ActionCondition/KeyCodePressedCondition.cs"
+			],
+			[
+				"timecon",
+				"Assets/Scripts/ActionCondition/TimeCondition.cs"
+			],
+			[
+				"manu",
+				"Assets/Scripts/ActionCondition/ManualCondition.cs"
+			],
+			[
+				"touc",
+				"Assets/Scripts/ActionCondition/TouchCondition.cs"
+			],
+			[
+				"action",
+				"Assets/Scripts/ActionCondition/ActionCondition.cs"
+			],
+			[
+				"genera",
+				"Assets/Scripts/Generate.cs.meta"
+			],
+			[
+				"game",
+				"Assets/Scenes/Game.unity"
+			],
+			[
+				"gener",
+				"Assets/Scripts/Generate.cs"
+			],
+			[
+				"destro",
+				"Assets/Scripts/DestroyMe.cs"
+			],
+			[
+				"move",
+				"Assets/Scripts/Move.cs"
+			],
+			[
+				"levelcontr",
+				"Assets/Scripts/Controllers/LevelController.cs"
+			],
+			[
+				"splashandmenu.unity",
+				"Assets/Scenes/SplashAndMenu.unity"
+			],
+			[
+				"soundcon",
+				"Assets/Scripts/Controllers/SoundController.cs.meta"
+			],
+			[
+				"sundcontrol",
+				"Assets/Scripts/Controllers/SoundController.cs"
+			],
+			[
+				"maincontrol",
+				"Assets/Scripts/Controllers/MainMenuController.cs"
+			],
+			[
+				"soundco",
+				"Assets/Scripts/Controllers/SoundController.cs"
+			],
+			[
+				"levelcon",
+				"Assets/Scripts/Controllers/LevelController.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

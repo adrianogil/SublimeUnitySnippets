@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+#if UNITY_EDITOR
+[CustomEditor(typeof(${TM_FILENAME/(.+)\..+|.*/$1/:name}))]
+public class ${TM_FILENAME/(.+)\..+|.*/$1/:name}Editor : Editor {
+
+}
+#endif
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>customEditor</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
