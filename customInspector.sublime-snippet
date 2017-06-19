@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+public override void OnInspectorGUI()
+{
+    base.OnInspectorGUI();
+
+    ${TM_FILENAME/(.+)\..+|.*/$1/:name} ${2:editorObj} = target as ${TM_FILENAME/(.+)\..+|.*/$1/:name};
+
+    if (${2} == null) return;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>customInspector</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

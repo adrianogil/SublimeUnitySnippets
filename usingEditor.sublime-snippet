@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 #if UNITY_EDITOR
-using UnityEditor;
+${1:using UnityEditor;}
 #endif
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
