@@ -1,14 +1,12 @@
 <snippet>
     <content><![CDATA[
-using UnityEngine;
-
-public class ${TM_FILENAME/(.+)\..+|.*/$1/:name} : MonoBehaviour
+if (GUILayout.Button("${1}"))
 {
     ${2}
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>sample-monobehaviour</tabTrigger>
+    <tabTrigger>editor-button</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.cs</scope>
 </snippet>
