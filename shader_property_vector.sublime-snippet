@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-_$1 ("$2", Color) = (${3:1}, ${4:1}, ${5:1}, ${6:1}) // (R, G, B, A)
+_$1 ("$2", Vector) = (${3:1}, ${4:1}, ${5:1}, ${6:1}) // (R, G, B, A)
 ]]></content> -->
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>ColorProperty</tabTrigger>
+    <tabTrigger>VectorProperty</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.unity_shader</scope>
 </snippet>
