@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+float4 ${1:texColors}[9];
+#define GRABPIXEL(px,py) tex2D( ${2:_MainTex}, o.uv + float2(px * ${2:_MainTex}_TexelSize.x, py * ${2:_MainTex}_TexelSize.y))
+
+${1:texColors}[0] = ${3:_Kernel}[0] * GRABPIXEL(-1,-1);
+${1:texColors}[1] = ${3:_Kernel}[1] * GRABPIXEL(-1, 0);
+${1:texColors}[2] = ${3:_Kernel}[2] * GRABPIXEL(-1, 1);
+${1:texColors}[3] = ${3:_Kernel}[3] * GRABPIXEL( 0,-1);
+${1:texColors}[4] = ${3:_Kernel}[4] * GRABPIXEL( 0, 0);
+${1:texColors}[5] = ${3:_Kernel}[5] * GRABPIXEL( 0, 1);
+${1:texColors}[6] = ${3:_Kernel}[6] * GRABPIXEL( 1,-1);
+${1:texColors}[7] = ${3:_Kernel}[7] * GRABPIXEL( 1, 0);
+${1:texColors}[8] = ${3:_Kernel}[8] * GRABPIXEL( 1, 1);
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>conv-kernel-3-3</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.unity_shader</scope>
+</snippet>
