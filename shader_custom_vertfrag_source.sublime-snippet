@@ -51,5 +51,5 @@ Shader "${1:Custom}/${2:CustomShader}"
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>custom-vertfrag-shader</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.unity_shader</scope>
+    <!-- <scope>source.unity_shader</scope> -->
 </snippet>
