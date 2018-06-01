@@ -7,6 +7,7 @@ public override void OnInspectorGUI()
     ${TM_FILENAME/(.+)\..+|.*/$1/:name} ${2:editorObj} = target as ${TM_FILENAME/(.+)\..+|.*/$1/:name};
 
     if (${2} == null) return;
+    ${3}
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
