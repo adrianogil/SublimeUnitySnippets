@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+for (int ${1:x} = 0; ${1} < ${2}; ${1}++)
+{
+    for (int ${3:y} = 0; ${3} < ${4}; ${3}++)
+    {
+        ${5}
+    }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>forxy</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
